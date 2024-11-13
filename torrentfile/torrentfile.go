@@ -4,8 +4,9 @@ import (
 	"crypto/rand"
 	"crypto/sha1"
 	"fmt"
-	"main/p2p"
 	"os"
+
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/p2p"
 
 	bencoder "github.com/codescalersinternships/bencode-nabil/pkg"
 )

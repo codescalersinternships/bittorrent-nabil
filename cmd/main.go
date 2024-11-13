@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 	"log"
-	"main/torrentfile"
 	"os"
+
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/torrentfile"
 )
 
 

@@ -1,4 +1,4 @@
-module main
+module github.com/codescalersinternships/bittorrent-nabil/tree/development
 
 go 1.23.1
 

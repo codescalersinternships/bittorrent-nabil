@@ -5,10 +5,11 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"log"
-	"main/client"
-	"main/messages"
-	"main/peers"
 	"runtime"
+
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/client"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/messages"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/peers"
 )
 
 // MaxBlockSize is the largest number of bytes a request can ask for

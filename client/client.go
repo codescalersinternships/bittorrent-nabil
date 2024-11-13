@@ -3,10 +3,10 @@ package client
 import (
 	"bytes"
 	"fmt"
-	"main/bitfield"
-	"main/handshake"
-	"main/messages"
-	"main/peers"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/bitfield"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/handshake"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/messages"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/peers"
 	"net"
 )
 

@@ -3,7 +3,7 @@ package torrentfile
 import (
 	"fmt"
 	"io"
-	"main/peers"
+	"github.com/codescalersinternships/bittorrent-nabil/tree/development/peers"
 	"net/http"
 	"net/url"
 	"strconv"
